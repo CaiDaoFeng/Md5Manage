@@ -1,0 +1,25 @@
+[{
+    "FileName": "md5data.json",
+    "ChangeTime": "2018-07-26 18:12:03",
+    "MD5Value": "8724dd3d3f0d4983db0e0e1110248ba2",
+    "Version": "",
+    "Path": "E:\\md5manager\\WriteMd5\\WriteMd5\\bin\\Debug\\md5data.json"
+}, {
+    "FileName": "WriteMd5.exe",
+    "ChangeTime": "2018-07-27 08:52:19",
+    "MD5Value": "0deb33898f4f060c38a778e87a6ab3cb",
+    "Version": "1.0.0.0",
+    "Path": "E:\\md5manager\\WriteMd5\\WriteMd5\\bin\\Debug\\WriteMd5.exe"
+}, {
+    "FileName": "WriteMd5.exe.config",
+    "ChangeTime": "2018-07-24 11:56:30",
+    "MD5Value": "da0eed2f114f1288c8de452d5b95596e",
+    "Version": "",
+    "Path": "E:\\md5manager\\WriteMd5\\WriteMd5\\bin\\Debug\\WriteMd5.exe.config"
+}, {
+    "FileName": "WriteMd5.pdb",
+    "ChangeTime": "2018-07-27 08:52:19",
+    "MD5Value": "e69d8db245d43d24a70356bf72739705",
+    "Version": "",
+    "Path": "E:\\md5manager\\WriteMd5\\WriteMd5\\bin\\Debug\\WriteMd5.pdb"
+}]

@@ -1,0 +1,12 @@
+E:\md5manager\WriteMd5\WriteMd5\bin\Release\WriteMd5.exe.config
+E:\md5manager\WriteMd5\WriteMd5\bin\Release\WriteMd5.exe
+E:\md5manager\WriteMd5\WriteMd5\bin\Release\WriteMd5.pdb
+E:\md5manager\WriteMd5\WriteMd5\bin\Release\Newtonsoft.Json.dll
+E:\md5manager\WriteMd5\WriteMd5\obj\Release\WriteMd5.csprojResolveAssemblyReference.cache
+E:\md5manager\WriteMd5\WriteMd5\obj\Release\WriteMd5.Form1.resources
+E:\md5manager\WriteMd5\WriteMd5\obj\Release\WriteMd5.Form2.resources
+E:\md5manager\WriteMd5\WriteMd5\obj\Release\WriteMd5.Properties.Resources.resources
+E:\md5manager\WriteMd5\WriteMd5\obj\Release\WriteMd5.csproj.GenerateResource.Cache
+E:\md5manager\WriteMd5\WriteMd5\obj\Release\WriteMd5.csproj.CoreCompileInputs.cache
+E:\md5manager\WriteMd5\WriteMd5\obj\Release\WriteMd5.exe
+E:\md5manager\WriteMd5\WriteMd5\obj\Release\WriteMd5.pdb

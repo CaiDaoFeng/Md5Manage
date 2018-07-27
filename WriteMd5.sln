@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WriteMd5", "WriteMd5\WriteMd5.csproj", "{CB59D786-23F5-417D-BFA4-7AE35D6A82CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompareMd5", "CompareMd5\CompareMd5.csproj", "{2F677B74-619D-41AD-80B8-B15B226461A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB59D786-23F5-417D-BFA4-7AE35D6A82CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB59D786-23F5-417D-BFA4-7AE35D6A82CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB59D786-23F5-417D-BFA4-7AE35D6A82CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB59D786-23F5-417D-BFA4-7AE35D6A82CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F677B74-619D-41AD-80B8-B15B226461A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F677B74-619D-41AD-80B8-B15B226461A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F677B74-619D-41AD-80B8-B15B226461A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F677B74-619D-41AD-80B8-B15B226461A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC625DE6-64AB-4AF5-987D-4C50CC66F550}
+	EndGlobalSection
+EndGlobal

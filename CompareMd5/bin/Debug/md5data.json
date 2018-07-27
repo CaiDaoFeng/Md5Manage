@@ -1,0 +1,25 @@
+[{
+    "FileName": "CompareMd5.exe",
+    "ChangeTime": "2018-07-27 08:52:32",
+    "MD5Value": "0db2db686f33a27e96b72c5f518f9679",
+    "Version": "1.0.0.0",
+    "Path": "E:\\md5manager\\WriteMd5\\CompareMd5\\bin\\Debug\\CompareMd5.exe"
+}, {
+    "FileName": "CompareMd5.exe.config",
+    "ChangeTime": "2018-07-25 09:41:42",
+    "MD5Value": "da0eed2f114f1288c8de452d5b95596e",
+    "Version": "",
+    "Path": "E:\\md5manager\\WriteMd5\\CompareMd5\\bin\\Debug\\CompareMd5.exe.config"
+}, {
+    "FileName": "CompareMd5.pdb",
+    "ChangeTime": "2018-07-27 08:52:32",
+    "MD5Value": "2e0acb0c7995445233affeb1d39a2c32",
+    "Version": "",
+    "Path": "E:\\md5manager\\WriteMd5\\CompareMd5\\bin\\Debug\\CompareMd5.pdb"
+}, {
+    "FileName": "WriteMd5.exe",
+    "ChangeTime": "2018-07-27 08:52:19",
+    "MD5Value": "0deb33898f4f060c38a778e87a6ab3cb",
+    "Version": "1.0.0.0",
+    "Path": "E:\\md5manager\\WriteMd5\\CompareMd5\\bin\\Debug\\WriteMd5.exe"
+}]

@@ -1,0 +1,10 @@
+E:\md5manager\WriteMd5\CompareMd5\obj\Debug\CompareMd5.Properties.Resources.resources
+E:\md5manager\WriteMd5\CompareMd5\obj\Debug\CompareMd5.csproj.GenerateResource.Cache
+E:\md5manager\WriteMd5\CompareMd5\obj\Debug\CompareMd5.csproj.CoreCompileInputs.cache
+E:\md5manager\WriteMd5\CompareMd5\bin\Debug\CompareMd5.exe.config
+E:\md5manager\WriteMd5\CompareMd5\bin\Debug\CompareMd5.exe
+E:\md5manager\WriteMd5\CompareMd5\bin\Debug\CompareMd5.pdb
+E:\md5manager\WriteMd5\CompareMd5\obj\Debug\CompareMd5.Form1.resources
+E:\md5manager\WriteMd5\CompareMd5\obj\Debug\CompareMd5.exe
+E:\md5manager\WriteMd5\CompareMd5\obj\Debug\CompareMd5.pdb
+E:\md5manager\WriteMd5\CompareMd5\obj\Debug\CompareMd5.csprojResolveAssemblyReference.cache
